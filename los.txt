@@ -1,0 +1,174 @@
+# LineageOS Developer Directory
+
+• Aaron Kling <webgeek1234@gmail.com>
+• Aayush Gupta <aayushgupta219@gmail.com>
+• Abhisek Devkota <ciwrl@cyanogenmod.com>
+• Abhisek Devkota <ciwrl@lineageos.org>
+• Adnan Begovic <adnan@cyngn.com>
+• Adrian DC <radian.dc@gmail.com>
+• Al Sutton <al@funkyandroid.com>
+• aleasto <ales.astone@gmail.com>
+• Alessandro <ales.astone@gmail.com>
+• Alessandro Astone <ales.astone@gmail.com>
+• Alexander Koskovich <akoskovich@pm.me>
+• Alexander Koskovich <zvnexus@outlook.com>
+• Alexander Martinz <alex@amartinz.at>
+• Alexander Winkowski <dereference23@outlook.com>
+• althafvly <althafvly@gmail.com>
+• Andy CrossGate Yan <GeForce8800Ultra@gmail.com>
+• Andy Mast <andy@cyngn.com>
+• Arian <arian.kulmer@web.de>
+• Arnav Gupta <championswimmer@gmail.com>
+• Arne Coucheron <arco68@gmail.com>
+• Artem Borisov <dedsa2002@gmail.com>
+• Ashwin <ashwinr64@gmail.com>
+• Bharath <bharath@teamb58.org>
+• Brandon McAnsh <brandon.mcansh@gmail.com>
+• Brin Taylor <uberlaggydarwin@gmail.com>
+• Brint E. Kriebel <bekit@cyngn.com>
+• Bruno Martins <bgcngm@gmail.com>
+• Chirayu Desai <chirayudesai1@gmail.com>
+• Chris Soyars <ctso@ctso.me>
+• Christopher N. Hesse <raymanfx@gmail.com>
+• Christopher R. Palmer <crpalmer@gmail.com>
+• codeworkx <daniel.hillenbrand@codeworkx.de>
+• cretin45 <cretin45@gmail.com>
+• d34d <clark@cyngn.com>
+• Dan Pasanen <dan.pasanen@gmail.com>
+• Dan Pasanen <invisiblek@cyanogenmod.org>
+• Danesh M <daneshm90@gmail.com>
+• Danny Baumann <dannybaumann@web.de>
+• Darshan Manjrekar <darshanmanjrekar1205@gmail.com>
+• David Wronek <david@mainlining.org>
+• Davide Garberi <dade.garberi@gmail.com>
+• dhacker29 <davidhackerdvm@gmail.com>
+• dhacker29 <dhackerdvm@gmail.com>
+• dianlujitao <dianlujitao@lineageos.org>
+• Diogo Ferreira <defer@cyanogenmod.com>
+• Diogo Ferreira <defer@cyngn.com>
+• DroidFreak32 <rushabshah32@gmail.com>
+• Dušan Šušić <dusan.susic@gmail.com>
+• DvTonder <david.vantonder@gmail.com>
+• Eamon Powell <eamonpowell@outlook.com>
+• Elektroschmock <elektroschmock78@googlemail.com>
+• Eloi Carracedo <eloimuns@gmail.com>
+• Ethan Chen <intervigil@gmail.com>
+• Gabriele M <moto.falcon.git@gmail.com>
+• gabrielgagz <g.a.gomez@gmail.com>
+• Gary Kipnis <gkipnis@cyngn.com>
+• Georg Veichtlbauer <georg@vware.at>
+• Giulio Cervera <giulio.cervera@cyanogenmod.org>
+• Giulio Cervera <giulio.cervera@gmail.com>
+• Han Wang <416810799@qq.com>
+• Harry Youd <harry@harryyoud.co.uk>
+• Hashbang173 <hashbang173@gmail.com>
+• Hashcode <hashcode0f@gmail.com>
+• Henning Nielsen Lund <hnl_dk@amigaos.dk>
+• Howard M. Harte <hharte@cyngn.com>
+• Hriday Sharma <hridaysharma42@gmail.com>
+• HridayHS <hridaysharma42@gmail.com>
+• Jan Altensen <info@stricted.net>
+• Jarl-Penguin <jarlpenguin@outlook.com>
+• Jason Riordan <jriordan001@gmail.com>
+• Jef Oliver <jgoliver@jeago.com>
+• Jessica Wagantall <jwagantall@cyngn.com>
+• Joey <joey@lineageos.org>
+• Joey Hewitt <joey@joeyhewitt.com>
+• Joey Rizzoli <joey@cyanogenmoditalia.it>
+• Joey Rizzoli <joey@lineageos.it>
+• Joey Rizzoli <joey@lineageos.org>
+• Jonathan Bensen <cybertronic@gmail.com>
+• Jorge Ruesga <jorge@ruesga.com>
+• José Adolfo Galdámez <josegalre@pac-rom.com>
+• jrior001 <jriordan001@gmail.com>
+• jrizzoli <joey@cyanogenmoditalia.it>
+• Julian Veit <claymore1298@gmail.com>
+• kallt_kaffe <kallt_kaffe@apedroid.com>
+• Keith Mok <kmok@cyngn.com>
+• Kevin Cernekee <cernekee@gmail.com>
+• Kevin F. Haggerty <haggertk@lineageos.org>
+• Kevin Haggerty <haggertk@lineageos.org>
+• Konsta <konsta09@gmail.com>
+• kostoulhs <MrKostoulhs@gmail.com>
+• Koushik Dutta <koushd@gmail.com>
+• Kyle Laker <10kylelaker@gmail.com>
+• Les Prock <les@cyngn.com>
+• lrinQVQ <cqlrin@gmail.com>
+• Luca Stefani <luca.stefani.ge1@gmail.com>
+• Luca Stefani <luca020400@lineageos.org>
+• Luis Vidal <lvidal@cyngn.com>
+• LuK1337 <priv.luk@gmail.com>
+• Matt Garnes <matt@cyngn.com>
+• Matt Wagantall <mwagantall@cyngn.com>
+• Michael Bestas <mikeioannina@cyanogenmod.org>
+• Michael Bestas <mikeioannina@gmail.com>
+• Michael Bestas <mkbestas@gmail.com>
+• Michael Bestas <mkbestas@lineageos.org>
+• Michael W <baddaemon87@gmail.com>
+• Mohd Faraz <mohd.faraz.abc@gmail.com>
+• MSe <mse1969@posteo.de>
+• Nagaprasad N <gorbi16@gmail.com>
+• NBruderman <nbruderman@gmail.com>
+• nebkat <nebkat@teamhacksung.org>
+• Nebojsa Cvetkovic <nebkat@gmail.com>
+• Neil Perry <nperry@gmail.com>
+• Nicholas Lim <nicknitewolf@lineageos.org>
+• Nikola Majkić <n1kolaa924@gmail.com>
+• Nolen Johnson <johnsonnolen@gmail.com>
+• Oliver Scott <olivercscott@gmail.com>
+• Olivier Karasangabo <olivier@lineageos.org>
+• Paul Keith <javelinanddart@bestas.gr>
+• Paul Keith <javelinanddart@gmail.com>
+• Pawit Pornkitprasan <p.pawit@gmail.com>
+• percy-g2 <gahlotpercy@gmail.com>
+• Peter Cai <peter@typeblog.net>
+• Pig <pig.priv@gmail.com>
+• PIPIPIG233666 <2212848813@qq.com>
+• PIPIPIG233666 <wkong23@foxmail.com>
+• Raj Yengisetty <rajesh@cyngn.com>
+• Rashed Abdel-Tawab <rashed@linux.com>
+• razorloves <razorloves@gmail.com>
+• Ricardo Cerqueira <arcee@cyanogenmod.org>
+• Ricardo Cerqueira <cyanogenmod@cerqueira.org>
+• Ricardo Cerqueira <github@cerqueira.org>
+• Ricardo Cerqueira <ricardo@cyngn.com>
+• Robert Burns <burnsra@gmail.com>
+• Rohan Mathur <rohanmathur34@gmail.com>
+• Roman Birg <roman@cyngn.com>
+• Sam Mortimer <sam@mortimer.me.uk>
+• SamarV-121 <samarvispute121@pm.me>
+• sayeed99 <sayeed.afridi2009@gmail.com>
+• Scott Mertz <scott@cyngn.com>
+• Scott Warner <Tortel1210@gmail.com>
+• Sebastiano Barezzi <barezzisebastiano@gmail.com>
+• Sebastiano Barezzi <seba@sebaubuntu.dev>
+• SferaDev <alexisrico@aospa.co>
+• Shane Passmore <h8rift@gmail.com>
+• Simon Davie <nexx@nexxdesign.co.uk>
+• Simon Shields <simon@lineageos.org>
+• slickrick <rsalinas1@mail.usf.edu>
+• Sourajit Karmakar <sourajit.karmakar@gmail.com>
+• Steve Kondik <shade@chemlab.org>
+• Steve Kondik <steve@cyngn.com>
+• Tanguy Pruvot <tanguy.pruvot@gmail.com>
+• The Android Open Source Project <initial-contribution@android.com>
+• Thomas Jarosch <thomas.jarosch@intra2net.com>
+• Thomas Wendt <thoemy@gmx.net>
+• Tim Schumacher <timschumi@gmx.de>
+• Tim Zimmermann <tim@linux4.de>
+• Timi Rautamäki <timi.rautamaki@gmail.com>
+• Tom Giordano <tomgiordano83@gmail.com>
+• Tom Marshall <tdm.code@gmail.com>
+• Tom Marshall <tdm@cyngn.com>
+• Tom Powell <tom@powell.io>
+• Tom Powell <zifnab@zifnab06.net>
+• Tom Pratt <tom.pratt@outlook.com>
+• Tony Layher <layhertony@gmail.com>
+• Trafalgar Square <schneller.demian@gmail.com>
+• Trevor Drake <trevd1234@gmail.com>
+• Uldiniad <olivercscott@gmail.com>
+• weldoncyngn <wng@cyngn.com>
+• XpLoDWilD <xplodwild@cyanogenmod.org>
+• Yumi Yukimura <me.cafebabe@gmail.com>
+• zeeshanhussain <zeeshanhussain12@gmail.com>
+• Zhao Wei Liew <zhaoweiliew@gmail.com>
