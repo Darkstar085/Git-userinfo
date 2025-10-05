@@ -1,0 +1,25 @@
+
+# PixelExperience Developer Directory
+
+• Akash Srivastava <akashniki@gmail.com>
+• Baalaji <baalajimaestro@pixelexperience.org>
+• Chenyang Zhong <zhongcy95@gmail.com>
+• Colin Cross <ccross@android.com>
+• Conley Owens <cco3@android.com>
+• Dyneteve <dyneteve@pixelexperience.org>
+• Henrique Pereira <hlcpereira@pixelexperience.org>
+• Jake Weinstein <jake@aospa.co>
+• jhenrique09 <jhsv09@gmail.com>
+• Joey Yu <xiaowei.yu@dawsoncollege.qc.ca>
+• Jorge Lucas <jorgelucas@pixelexperience.org>
+• jro1979oliver <jroliveira.oliveira301@gmail.com>
+• KakatkarAkshay <akshayakakatkaraa@gmail.com>
+• Michael Bestas <mkbestas@lineageos.org>
+• Mike Frysinger <vapier@gentoo.org>
+• Pulkit077 <pulkitagarwal2k1@gmail.com>
+• Rahul Krishna <rahulkrishna585@gmail.com>
+• Rohan Hasabe <rohanhasabe8@gmail.com>
+• Ruchit <risenid@duck.com>
+• Shreejoy Dash <shreejoy@pixelexperience.org>
+• Vipin Mishra <52159805+thevipinmishra@users.noreply.github.com>
+• Yumi Yukimura <me.cafebabe@gmail.com>

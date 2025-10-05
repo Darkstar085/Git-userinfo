@@ -1,0 +1,39 @@
+
+# CarbonROM Developer Directory
+
+• Aayush Gupta <aayushgupta219@gmail.com>
+• Adin Kwok <adin.kwok@carbonrom.org>
+• Alessandro Astone <ales.astone@gmail.com>
+• Andy CrossGate Yan <GeForce8800Ultra@gmail.com>
+• Ashwin R C <ashwin2001achu@gmail.com>
+• Bruno Martins <bgcngm@gmail.com>
+• Christian Oder <myself5@carbonrom.org>
+• cyproto <kyashkarande@gmail.com>
+• David Wheatley <davidwheatley03@gmail.com>
+• DigiGoon <kagatharatarang@gmail.com>
+• Filippo <zzkw35@gmail.com>
+• gabrielgagz <g.a.gomez@gmail.com>
+• Jacob McSwain <jacob@mcswain.dev>
+• Joe Maples <joe@frap129.org>
+• Joe Maples <joe@maples.dev>
+• Joel Maxuel <j.maxuel@gmail.com>
+• Joseph Maples <joe@frap129.org>
+• kazerine <kamikaze.mrinal@gmail.com>
+• Kevin F. Haggerty <haggertk@lineageos.org>
+• LuK1337 <priv.luk@gmail.com>
+• Max Weffers <rcstar6696@gmail.com>
+• me2151 <dillonbrosche@gmail.com>
+• Michael Benedict <michaelbt@live.com>
+• Michael Bestas <mkbestas@lineageos.org>
+• Mike Frysinger <vapier@gentoo.org>
+• Nikhil Punathil <nikhilpe@gmail.com>
+• Nolen Johnson <johnsonnolen@gmail.com>
+• Peter Cai <peter@typeblog.net>
+• Pig <pig.priv@gmail.com>
+• PIPIPIG233666 <2212848813@qq.com>
+• rc420head <dennislebhardt79@gmail.com>
+• Ritesh Saxena <riteshsax007@gmail.com>
+• Roker2 <dimaminko2000@gmail.com>
+• Ryan Norris <ryan@carbonrom.org>
+• SirRGB <sirrgb@proton.me>
+• xenreon <main.xenreon@gmail.com>
